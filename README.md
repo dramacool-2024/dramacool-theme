@@ -19,7 +19,7 @@ Integrate the theme files into your website project and customize them according
 
 ## Official Website
 
-Explore the Dramacool Theme in action on our official website: [Dramacool.ooo](https://dramacool.ooo/).
+Explore the Dramacool Theme in action on our official website: [dramacool](https://dramacool.ooo/).
 
 ## Contributing
 
